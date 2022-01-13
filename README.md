@@ -9,6 +9,13 @@
   * Exercice 4
   * Exercice 5
 
+* ejercicios-basico-2.py
+  * Exercice 6
+  * Exercice 7
+  * Exercice 8
+  * Exercice 9
+  * Exercice 10
+
 ## Technologies
 
 - Python3
