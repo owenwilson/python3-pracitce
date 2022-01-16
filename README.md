@@ -16,6 +16,8 @@
   * Exercice 9
   * Exercice 10
 
+* fibomanaci.py
+
 ## Technologies
 
 - Python3
